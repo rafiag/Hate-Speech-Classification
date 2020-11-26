@@ -1,6 +1,7 @@
 # No-Hate
-Bahasa Indonesia Hate Speech Classification
-by: Rafi Atha
+Bahasa Indonesia Hate Speech Classification using XGBoostClassifier
+
+by: Rafi Atha (DS0219)
 
 ## References
 
